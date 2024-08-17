@@ -1,0 +1,31 @@
+
+
+.claselista {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 0px;
+    background-image: url(./imagenes/DSC_0608.JPG);
+   /*background-repeat: no-repeat ;*/
+    background-size:100% ;
+   /* background-position: center;*/
+    color:#0b0b0b ;
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.claseformulario {
+    background-color: #898b8c;
+    color:rgb(10, 87, 142);
+    font-size:large;
+    font-family:helvetica, sans-serif ;
+    width: 95%;
+    padding: 10px;
+
+}
+
+.claseitem{
+    padding: 2px;
+    color: rgb(74, 187, 187);
+    background-color: rgb(17, 18, 18);
+}
